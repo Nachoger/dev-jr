@@ -18,12 +18,12 @@
 <p id="O">
 
 id 
-<br/><input type="text" name="codigo" autofocus="" required=""><br/>
+<br/><input type="text" name="id" autofocus="" required=""><br/>
 
 email
-<br/><input type="text" name="correo" autofocus="" required=""><br/>
+<br/><input type="text" name="email" autofocus="" required=""><br/>
 
-nombre:
+nombre
 <br/><input type="text" name="nombre" autofocus="" required=""><br/>
  
 apellido
